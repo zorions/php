@@ -1,3 +1,5 @@
-<?php
-phpinfo();
+<?php 
+echo '<p>Hello Cyril</p>'; 
 ?>
+
+
